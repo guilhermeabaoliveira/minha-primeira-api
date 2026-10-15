@@ -2,6 +2,8 @@
 
 A Python API for creating and listing tasks, built with FastAPI and TinyDB. Records are stored in a local JSON file.
 
+[Request and response example](docs/example.md) · [Run locally](#setup-and-execution)
+
 [English](#endpoints) · [Português](#api-de-gerenciamento-de-tarefas)
 
 ## Endpoints
